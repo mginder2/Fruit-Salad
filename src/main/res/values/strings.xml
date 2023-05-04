@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">FruitSalad</string>
+    <string name="prepare_a_salad">Prepare a Salad</string>
+    <string name="harvest_fruit">Harvest Fruit</string>
+    <string name="points">Points:</string>
+    <string name="settings">settings</string>
+
+    <string name="sync_pref">Super Secret Settings</string>
+    <string name="sync_pref_summary">Can\'t tell you what this does! Its secret!</string>
+
+    <string name="pref_syncConnectionType">Choose your favorite color</string>
+    <string name="pref_syncConnectionType_dialog_title">Choose your favorite color</string>
+    <string name="pref_syncConnectionType_default_value">Purple</string>
+    <string name="pref_syncConnectionType_summary">Purple</string>
+    <string name="prepare_salad">Prepare Salad</string>
+
+    <string-array name="pref_syncConnectionType_entries">
+        <item>Your Favorite Color is Purple</item>
+        <item>You Have No Choice, it is Purple</item>
+    </string-array>
+
+    <string-array name="pref_syncConnectionType_values">
+        <item>Your Favorite Color is Purple</item>
+        <item>You Have No Choice, it is Purple</item>
+    </string-array>
+</resources>
